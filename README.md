@@ -87,7 +87,7 @@ Crack the password of the supplied PDF file (`My Locked PDF2.pdf`) using **John 
 
 **Screenshot – PDF Hash Extraction**
 
-![PDF Hash Extraction](screenshots/03-pdf-hash-extraction.png)
+![PDF Hash Extraction](screenshot/03-pdf-hash-extraction.png)
 
 ### 5.4 Cracking the Password
 
