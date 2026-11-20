@@ -9,9 +9,9 @@ Week 3 Lab — Password Cracking of Password-Protected PDF Files Using John the 
 
 | Field | Details |
 |---|---|
-| **Pentester Name** | Anish Pradhan |
+| **Pentester Name** | Krrish Pravin Mukadam |
 | **Program / Batch** | B084 - Networkwalks |
-| **Date** | 17 November 2026 |
+| **Date** | 20 November 2026 |
 | **Modules Completed** | W3-PM1 (Password Cracking with JTR) |
 | | W3-PM2 (Password Cracking with Networkwalks Tools) |
 | **Target File** | My Locked PDF2.pdf |
