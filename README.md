@@ -229,4 +229,23 @@ networkwalks-w3-B083-password-cracking/
 
 ---
 
-**Pentesting Project Report | Networkwalks | Krrish Pravin Mukadam**
+# 9. Author
+
+**Krrish Pravin Mukadam**
+
+Batch: B084 - Networkwalks
+
+GitHub: [KrrishMukadam](https://github.com/KrrishMukadam)
+
+---
+
+## Project Information
+
+| Details | Information |
+|---|---|
+| Program Name | Cybersecurity & Ethical Hacking Internship at Networkwalks |
+| Week | 03 |
+| Modules | W3-PM1, W3-PM2 |
+| Repository | GitHub |
+
+**End of Report**
