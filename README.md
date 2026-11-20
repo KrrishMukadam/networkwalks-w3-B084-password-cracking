@@ -9,9 +9,9 @@ Week 3 lab — cracking a password-protected PDF using John the Ripper/Johnny an
 
 | Field | Details |
 |---|---|
-| Pentester Name | Krrish Pravin Mukamad |
+| Pentester Name | Krrish Pravin Mukadam |
 | Program / Batch | B084 - Networkwalks |
-| Date | 17 November 2026 |
+| Date | 20 November 2026 |
 | Modules completed | W3-PM1 (Password Cracking with JTR) |
 | | W3-PM2 (Password Cracking with Networkwalks Tools) |
 | Target File | My Locked PDF2.pdf |
@@ -101,7 +101,7 @@ Crack the password of the supplied PDF file (`My Locked PDF2.pdf`) using **John 
 
 **Screenshot – Johnny Password Cracking Result**
 
-![Johnny JTR Result](screenshots/05-johnny-jtr-result.png)
+![Johnny JTR Result](screenshot/05-johnny-jtr-result.png)
 
 ### 5.5 Observation
 
@@ -134,11 +134,11 @@ Crack the password of the same PDF file (`My Locked PDF2.pdf`) using the **Netwo
 
 **Screenshot – Networkwalks Hash Calculator**
 
-![Networkwalks Hash Calculator](screenshots/03-pdf-hash-extraction.png)
+![Networkwalks Hash Calculator](screenshot/03-pdf-hash-extraction.png)
 
 **Screenshot – Networkwalks Password Cracker**
 
-![Networkwalks Password Cracker](screenshots/01-online-password-cracker.png)
+![Networkwalks Password Cracker](screenshot/01-online-password-cracker.png)
 
 ### 6.3 Observation
 
@@ -158,11 +158,11 @@ After successfully cracking the PDF password, the lab displayed a congratulation
 
 **First Flag Captured**
 
-![First Flag](screenshots/02-pdf-flag-1.png)
+![First Flag](screenshot/02-pdf-flag-1.png)
 
 **Additional Persistence Flag**
 
-![Persistence Flag](screenshots/04-pdf-persistence-flag.png)
+![Persistence Flag](screenshot/04-pdf-persistence-flag.png)
 
 These screenshots provide evidence of successful completion of the Networkwalks lab activities.
 
@@ -182,23 +182,23 @@ These screenshots provide evidence of successful completion of the Networkwalks 
 
 **Screenshot (179) – Johnny JTR Password Cracking**
 
-![Screenshot 179](screenshots/05-johnny-jtr-result.png)
+![Screenshot 179](screenshot/05-johnny-jtr-result.png)
 
 **Screenshot (181) – First Flag Captured**
 
-![Screenshot 181](screenshots/02-pdf-flag-1.png)
+![Screenshot 181](screenshot/02-pdf-flag-1.png)
 
 **Screenshot (183) – PDF Hash Extraction**
 
-![Screenshot 183](screenshots/03-pdf-hash-extraction.png)
+![Screenshot 183](screenshot/03-pdf-hash-extraction.png)
 
 **Screenshot (184) – Online Password Cracker**
 
-![Screenshot 184](screenshots/01-online-password-cracker.png)
+![Screenshot 184](screenshot/01-online-password-cracker.png)
 
 **Screenshot (185) – Additional Persistence Flag**
 
-![Screenshot 185](screenshots/04-pdf-persistence-flag.png)
+![Screenshot 185](screenshot/04-pdf-persistence-flag.png)
 
 ---
 
